@@ -1,0 +1,19 @@
+p{
+    color: red;
+
+
+}
+
+h3{
+    color: yellow;
+}
+
+.compoDiv{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid teal;
+    padding: 2vmax;
+
+}
